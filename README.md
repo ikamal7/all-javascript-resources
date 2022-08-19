@@ -2,9 +2,9 @@
 This is an awesome project about JavaScript Learning resources. ⚡
 
 ## Table of Contents
-- [Website](#website)
 
-## [Free Websites to Learn JavaScript](#website)
+
+## Free Websites to Learn JavaScript
 
 | Website                                       | Description                                                                                                                                                                                                                   |
 | --------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
