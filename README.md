@@ -8,6 +8,7 @@ Table of Contents
 
   
 <a name="websites" />
+
 ## Free Websites to Learn JavaScript
 
 | Website                                       | Description                                                                                                                                                                                                                   |
@@ -19,6 +20,7 @@ Table of Contents
 Here is list of some popular JavaScript books
 
 <a name="github-repos" />
+
 ## GitHub Repos🧵👇
 ### 1. [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 It provides 33 concepts every JavaScript developer should know.
